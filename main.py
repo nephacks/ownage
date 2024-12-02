@@ -7,7 +7,7 @@ import pyuac
 import subprocess
 
 # this is my token hope nothing happens to it :slight_smile:
-TOKEN = 'MTMxMDU5MDIxMDg4NjcyOTczOQ.GAAmxz.mZpqwx-HunPs4bQglTonlAMvZXNIVkLzaNrkg8'
+TOKEN = 'MTMxMDU5MDIxMDg4NjcyOTczOQ.G7vGrv.u5mdn82Phe9RzJh17nvq-teyr3bPXiAoWttK3c'
 
 def is_admin():
     try:
