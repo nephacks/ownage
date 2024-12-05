@@ -1,4 +1,3 @@
-global lock_active  # inserted
 import discord
 import os
 import ctypes
@@ -7,7 +6,7 @@ import pyuac
 import subprocess
 
 # this is my token hope nothing happens to it :slight_smile:
-TOKEN = 'MTMxMDU5MDIxMDg4NjcyOTczOQ.G7vGrv.u5mdn82Phe9RzJh17nvq-teyr3bPXiAoWttK3c'
+TOKEN = 'MTMxMDU5MDIxMDg4NjcyOTczOQ.GB32S1.cbq2CIXraHt5XQiGYkwekCuvEXvu-ykmIcvnnE'
 
 def is_admin():
     try:
